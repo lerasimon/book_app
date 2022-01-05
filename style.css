@@ -230,6 +230,13 @@ background-color: whitesmoke;
       color: rgba(45, 168, 29, 0.9);
   }
 
+/*mobile media query*/
+
+@media only screen and (max-width:480px) {
+    body {
+        font-size:2rem;
+    }
+}
   
 
   
