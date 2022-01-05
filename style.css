@@ -232,9 +232,15 @@ background-color: whitesmoke;
 
 /*mobile media query*/
 
-@media only screen and (max-width:480px) {
+@media only screen and (max-width:800px) {
     body {
-        font-size:4rem;
+        font-size:2rem;
+    }
+}
+
+@media only screen and (max-width:800px) {
+    .nav {
+        background-color: lightsteelblue;
     }
 }
   
